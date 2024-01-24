@@ -1,3 +1,5 @@
-# doitCodingTestJava 책 보고 따라 하는 중..
+# doitCodingTestJava 책 따라 하기
 
 #### 어렵다 공부..
+
+01.24 start
